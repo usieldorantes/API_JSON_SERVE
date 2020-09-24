@@ -1,0 +1,36 @@
+{
+	"usuario":[
+		{
+			"id": 1,
+			"nombre": "Usiel",
+			"apellido": "Dorantes",
+			"username": "usield",
+			"password": "81dc9bdb52d04dc20036dbd8313ed055"
+		}],
+	"poblacion":[
+		{
+			"id": 1,
+			"continente": "Asia",
+			"porcentaje": "59.7"
+		},
+		{
+			"id": 2,
+			"continente": "Africa",
+			"porcentaje": "16.9"
+		},
+		{
+			"id": 3,
+			"continente": "America",
+			"porcentaje": "13"
+		},
+		{
+			"id": 4,
+			"continente": "Europa",
+			"porcentaje": "9.8"
+		},
+		{
+			"id": 5,
+			"continente": "Oceania",
+			"porcentaje": "0.6"
+		}]
+}
